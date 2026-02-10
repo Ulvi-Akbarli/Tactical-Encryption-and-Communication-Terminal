@@ -12,7 +12,7 @@ Sistem, kiber-müdaxilələrin qarşısını almaq üçün məlumatları simmetr
 
 ## 🔗 Canlı Simulyasiya
 Layihənin aparat (hardware) hissəsini heç bir cihaz almadan birbaşa brauzerinizdə test edə bilərsiniz:
-👉 **[Wokwi Simulyasiya Linki]([https://wokwi.com/projects/455579231699074049])**
+👉 **[Wokwi Simulyasiya Linki](https://wokwi.com/projects/455579231699074049)**
 
 ## 🚀 Əsas Funksiyalar
 - **XOR Cryptography:** Mesajlar ötürülməzdən əvvəl xüsusi açarla şifrələnir və yalnız ESP32 tərəfində deşifrə olunur.
