@@ -21,7 +21,7 @@ Sistemi test etmək üçün bu ardıcıllığı izləyin:
 
 1. **Terminalı Açın:** `C#(WIndows-Form)_Taktiki Şifrələmə və Rabitə Terminalı` qovluğundakı `.slnx` faylını **Visual Studio** proqramında açın və "Start" düyməsini basaraq işə salın.
 2. **Simulyasiyaya Daxil Olun:** Aşağıdakı Wokwi linkinə klikləyin:
-   👉 [](https://wokwi.com/projects/455579231699074049)
+   👉 **[Wokwi Simulyasiya Linki](https://wokwi.com/projects/455579231699074049)**
 3. **Simulyasiyanı Başladın:** Wokwi-də yuxarıdakı **"Play" (Yaşıl üçbucaq)** düyməsini sıxın. (Hesabınıza köçürməyə ehtiyac yoxdur, birbaşa işləyir).
 4. **Əmr Göndərin:** C# proqramında mesaj hissəsinə bir əmr (məsələn: `ATTACK` və ya `STOP`) yazın və **"Göndər"** düyməsinə basın.
 
