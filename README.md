@@ -30,8 +30,3 @@ Layihənin aparat (hardware) hissəsini heç bir cihaz almadan birbaşa brauzeri
 
 
 
-## 📂 Layihə Strukturu
-```text
-├── CSharp_Terminal/        # C# WinForms proyekt faylları
-├── ESP32_Firmware/         # ESP32 .ino kodu və diagram.json
-└── README.md               # Layihə sənədləri
